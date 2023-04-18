@@ -1,5 +1,5 @@
 {
-  "name": "modulo6",
+  "name": "modulo8",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/giselledonari/sweetpastry_modulo6.git"
+    "url": "git+https://github.com/nosnayo/Portafolio-Modulo8-NelsonOsnayo-.git"
   },
   "keywords": [],
   "author": "“nelson <“nelson@gmail.com”>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/giselledonari/sweetpastry_modulo6/issues"
+    "url": "https://github.com/nosnayo/Portafolio-Modulo8-NelsonOsnayo-.git"
   },
-  "homepage": "https://github.com/giselledonari/sweetpastry_modulo6#readme",
+  "homepage": "",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.1",
